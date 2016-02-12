@@ -1,1 +1,1 @@
-This space left blank... for now. 
+Right now (Feb 12th) this is just a fork of Damon's project. Over the next week or two I'll be changing this to make it work for people building Wordpress themes and this readme will then have real info in it. 
